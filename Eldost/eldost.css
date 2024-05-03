@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://img.freepik.com/free-photo/movie-background-collage_23-2149876003.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-position-y: 10%;
+}
+
+.div {
+  display: flex;
+  justify-content: center;
+}
+.div .movie {
+  text-align: center;
+  color: aquamarine;
+}
+.div .inp {
+  display: flex;
+  justify-content: center;
+}
+.div .btn {
+  align-items: center;
+  color: rgb(255, 255, 255);
+  border: 1px solid red;
+  padding: 10px;
+  background-color: red;
+}/*# sourceMappingURL=eldost.css.map */
